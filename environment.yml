@@ -16,6 +16,7 @@ dependencies:
   # https://github.com/jupyterlab-contrib/jupyter-archive
   - jupyter-archive
   - jupyterlab-variableinspector
+  - scilab
   - pip:
     # Print module version
     - scilab_kernel
