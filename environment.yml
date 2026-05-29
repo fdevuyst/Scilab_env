@@ -4,8 +4,10 @@ channels:
 dependencies:
   # Jupyter dependencies
   - ipython=8
-  - jupyterhub>=4.1.6,<5
   - jupyterlab>=4.4,<5
+  - jupyterhub>=4.1.6,<5
+  - jupyter-resource-usage>=1,<2
+  - jupyterlab-topbar-text >=1.1.0,<2
   - notebook>=7.4,<8
   - jupyter-resource-usage>=1,<2
   - jupyterlab-topbar-text >=1.1.0,<2
